@@ -19,7 +19,7 @@ SECRET_KEY = '\2\1thisismyscretkey\1\2\e\y\y\h'  # noqa
 # Superset metadata (slices, connections, tables, dashboards, ...).
 # Note that the connection information to connect to the datasources
 # you want to explore are managed directly in the web UI
-SQLALCHEMY_DATABASE_URI = 'postgres://apvbeslrkahhca:e89c24baaf6680a0808ed7febc8785408ac9172a7eb0a6a1a25915b7f4579cc1@ec2-107-20-151-189.compute-1.amazonaws.com:5432/d4hptidm84k3tu'
+# SQLALCHEMY_DATABASE_URI = 'postgres://apvbeslrkahhca:e89c24baaf6680a0808ed7febc8785408ac9172a7eb0a6a1a25915b7f4579cc1@ec2-107-20-151-189.compute-1.amazonaws.com:5432/d4hptidm84k3tu'
 
 
 # Flask-WTF flag for CSRF
